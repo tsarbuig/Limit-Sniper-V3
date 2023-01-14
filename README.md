@@ -1,4 +1,6 @@
-# Limit-Sniper-V3
+###   Read this intro : https://medium.com/@tsarbuig/a-world-premiere-sniperv3-rust-bot-6b5b0668c4c8
+
+&nbsp;
 
 <img src="https://user-images.githubusercontent.com/70858574/210904846-a055fd00-0e15-4651-90e0-eefb4ec15264.png" width="600">
 
