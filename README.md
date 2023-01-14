@@ -89,3 +89,9 @@ use_multiple_wallets = true
 wallets = ["0x200E4Fe41faF92C96bd74c711738Ad550175A779", "0x5aa376af6a5d99d051c3f994de26bb5ae234da26", "0xf62803b9f8a146d07b993ad08bda8de91dde8690"],
 ```
 ![image](https://user-images.githubusercontent.com/70858574/195205954-a0c44fd1-2717-49a4-b590-a5135622b424.png)
+
+&nbsp;
+
+Example : 
+![image](https://user-images.githubusercontent.com/70858574/212440761-b48a0f93-5d36-4bfa-b6bf-bd23b79db072.png)
+
